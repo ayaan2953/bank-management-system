@@ -13,6 +13,13 @@ pnpm dev
 # or
 bun dev
 ```
+Second, must have the .env folder:
+
+```
+DATABASE_URL="    "
+JWT_SECRET=       ;
+
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
